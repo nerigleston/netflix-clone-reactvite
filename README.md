@@ -1,8 +1,18 @@
-# React + Vite
+# Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Netflix Logo](https://www.freepnglogos.com/uploads/netflix-logo-0.png)
 
-Currently, two official plugins are available:
+Este é um projeto React criado com Vite que replica a página inicial da Netflix. Ele inclui um cabeçalho com links de navegação e informações sobre um filme fictício.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demonstração
+
+Você pode ver uma demonstração do projeto [aqui](URL_DEMONSTRAÇÃO).
+
+## Como Usar
+
+Para executar este projeto em sua máquina local, siga estas etapas:
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone URL_DO_REPOSITÓRIO

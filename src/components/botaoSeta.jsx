@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Perfil from "../src/assets/img/perfil.png";
-import "../src/page/inicialPage/inicial.css";
+import Perfil from "../assets/img/perfil.png"
+import "../page/inicialPage/inicial.css";
 
 function BotaoComSetaEPerfil() {
   // Use o estado para controlar a classe CSS
