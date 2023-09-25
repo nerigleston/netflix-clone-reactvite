@@ -6,7 +6,7 @@ Este é um projeto React criado com Vite que replica a página inicial da Netfli
 
 
 
-Você pode ver uma demonstração do projeto ![Clone Netflix](./src/assets/img/telasite.png).
+Você pode ver uma demonstração do projeto (https://vercel-clone-netflix.vercel.app/) ![Clone Netflix](./src/assets/img/telasite.png).
 
 # Recursos
 - React
