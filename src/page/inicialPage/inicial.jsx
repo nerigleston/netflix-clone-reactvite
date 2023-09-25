@@ -1,4 +1,5 @@
 import React from "react";
+// import "../../components/responsive.css"
 import "./inicial.css";
 import Img from "../../assets/img/magnifying-glass-solid.svg";
 import Alert from "../../assets/img/bell-solid.svg";

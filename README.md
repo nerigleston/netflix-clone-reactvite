@@ -6,13 +6,9 @@ Este é um projeto React criado com Vite que replica a página inicial da Netfli
 
 ## Demonstração
 
-Você pode ver uma demonstração do projeto [aqui](URL_DEMONSTRAÇÃO).
+Você pode ver uma demonstração do projeto [Clone Netflix](https://vercel-clone-netflix.vercel.app/).
 
-## Como Usar
-
-Para executar este projeto em sua máquina local, siga estas etapas:
-
-1. **Clone o repositório:**
-
-   ```bash
-   git clone URL_DO_REPOSITÓRIO
+# Recursos
+React
+HTML
+CSS
